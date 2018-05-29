@@ -1,0 +1,15 @@
+{
+  "name": "recover-ethereum-key",
+  "version": "1.0.0",
+  "description": "export the private key corresponding to an ethereum JSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "antonok",
+  "license": "ISC",
+  "dependencies": {
+    "keythereum": "^1.0.2",
+    "password-prompt": "^1.0.4"
+  }
+}
