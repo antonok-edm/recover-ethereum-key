@@ -9,7 +9,7 @@
   "author": "antonok",
   "license": "ISC",
   "dependencies": {
-    "keythereum": "^1.0.2",
+    "keythereum": "^1.0.4",
     "password-prompt": "^1.0.4"
   }
 }
